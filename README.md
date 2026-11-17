@@ -1,4 +1,4 @@
-I am a Staff Software Engineer at [Yandex Cloud](https://yandex.cloud) and a Rust enthusiast. I primarily work with C++, Go, and Python.
+I am a Staff Software Engineer at [Yandex Cloud](https://yandex.cloud) and a Rust enthusiast. I primarily work with Rust, Go, C++, and Python.
 
 I contribute to [Apache Arrow](https://arrow.apache.org/).
 
