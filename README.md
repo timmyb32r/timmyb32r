@@ -16,3 +16,5 @@ At [Doctor Web](https://www.drweb.com), an antivirus vendor, I started in the vi
 - Workflow scheduler: a high-performance C++ engine for executing DAGs, with task dispatch and execution timeouts.
 
 I studied Information Systems and Technologies at [ITMO University](https://itmo.ru). For my graduation thesis, I built a C++ search engine for binary data. It entered production, replacing hours-long scans of clean files with sub-second queries for antivirus signature validation.
+
+Telegram: https://t.me/timmyb32r
